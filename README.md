@@ -1,8 +1,4 @@
-Absolutely! It looks like your markdown formatting got a bit jumbled (some code blocks, emojis, and text lost structure). Here's the **corrected and clean version** of your README.md file:
 
----
-
-````markdown
 # 🛡️ File Integrity Monitoring Tool (C++ & Linux)
 
 A lightweight, real-time File Integrity Monitoring (FIM) tool built using **C++** and the **inotify** API on **Linux**. This tool watches a specified directory and logs any file **creation**, **deletion**, or **modification** events.
